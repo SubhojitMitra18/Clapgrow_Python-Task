@@ -53,7 +53,7 @@ bench new-site todo.local
 
 If it’s your custom app:
 
-bench get-app todo https://github.com/Noddy2003/Clapgrow_Task.git --branch main
+bench get-app todo https://github.com/SubhojitMitra18/Clapgrow_Python-Task.git --branch main
 
 Or if it’s the default Frappe ToDo app (used for learning):
 
@@ -80,7 +80,7 @@ cd frappe-bench
 
 bench new-site todo.local
 
-bench get-app todo https://github.com/Noddy2003/Clapgrow_Task.git --branch main
+bench get-app todo https://github.com/SubhojitMitra18/Clapgrow_Python-Task.git --branch main
 
 bench --site todo.local install-app todo
 
